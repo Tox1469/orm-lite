@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/orm-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/orm-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/orm-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/orm-lite?style=flat-square)](https://github.com/Tox1469/orm-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/orm-lite?style=flat-square)](https://github.com/Tox1469/orm-lite/stargazers)
+
+---
+
 # orm-lite
 
 Mini ORM active record para SQLite.
