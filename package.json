@@ -1,0 +1,26 @@
+{
+  "name": "orm-lite",
+  "version": "1.0.0",
+  "description": "Mini ORM active record para SQLite.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "orm",
+    "sqlite",
+    "active-record",
+    "database"
+  ],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
